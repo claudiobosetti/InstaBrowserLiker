@@ -27,7 +27,7 @@ https://github.com/mozilla/geckodriver/releases
 ```bash
 python3 InstaBrowserLiker.py
 
-py InstaBrowserLikerpy
+py InstaBrowserLiker.py
 ```
 ## Disclaimer :heavy_exclamation_mark:
 
