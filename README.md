@@ -14,9 +14,9 @@ A Python Instagram script for like automation from hashtags in a web browser :fi
 ## Installation :gear:
 
 ```bash
-py pip install selenium
+py -m pip install selenium
 
-python3 pip install selenium
+python3 -m pip install selenium
 ```
 Install geckodriver from here:
 
